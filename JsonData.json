@@ -1,0 +1,99 @@
+{
+   "JsonData": [
+   
+   {
+  "statioN_ID": "449",
+  "sitE_NAME": "6104 | (E-5 Silza Ensenada y Carr. Transpeninsular)",
+  "zdalY_GAS_BRAND": "Petro 7",
+  "address": "Carretera Transpeninsular No. 8781",
+  "city": "Ensenada",
+  "state": "Baja California",
+  "zip": "22785",
+  "countY_NAME": "ZM Ensenada",
+  "pricinG_ZONE": "0_Baja_ia",
+  "clusteR_MEDIAN_PRICE": "7.46",
+  "clienT_MARKET_PRICE": "7.33",
+  "latitude": "31.79353",
+  "longitude": "-116.5928"
+},
+{
+  "statioN_ID": "18946",
+  "sitE_NAME": "66093 | (Blvd. Costero Lazaro Cardenas y Blancarte)",
+  "zdalY_GAS_BRAND": "Petro 7",
+  "address": "Boulevard LÃ¡zaro CÃ",
+  "city": "rdenas No. 980",
+  "state": "Baja California",
+  "zip": "22800",
+  "countY_NAME": "ZM Ensenada",
+  "pricinG_ZONE": "0_Baja_ia",
+  "clusteR_MEDIAN_PRICE": "7.46",
+  "clienT_MARKET_PRICE": "7.46",
+  "latitude": "31.85952",
+  "longitude": "-116.6226"
+}
+,
+{
+  "statioN_ID": "449",
+  "sitE_NAME": "6104 | (E-5 Silza Ensenada y Carr. Transpeninsular)",
+  "zdalY_GAS_BRAND": "Petro 7",
+  "address": "Carretera Transpeninsular No. 8781",
+  "city": "Ensenada",
+  "state": "Baja California",
+  "zip": "22785",
+  "countY_NAME": "ZM Ensenada",
+  "pricinG_ZONE": "0_Baja_ia",
+  "clusteR_MEDIAN_PRICE": "7.46",
+  "clienT_MARKET_PRICE": "7.33",
+  "latitude": "31.79353",
+  "longitude": "-116.5928"
+}
+,
+{
+  "statioN_ID": "449",
+  "sitE_NAME": "6104 | (E-5 Silza Ensenada y Carr. Transpeninsular)",
+  "zdalY_GAS_BRAND": "Petro 7",
+  "address": "Carretera Transpeninsular No. 8781",
+  "city": "Ensenada",
+  "state": "Baja California",
+  "zip": "22785",
+  "countY_NAME": "ZM Ensenada",
+  "pricinG_ZONE": "0_Baja_ia",
+  "clusteR_MEDIAN_PRICE": "7.46",
+  "clienT_MARKET_PRICE": "7.33",
+  "latitude": "31.79353",
+  "longitude": "-116.5928"
+}
+,
+{
+  "statioN_ID": "449",
+  "sitE_NAME": "6104 | (E-5 Silza Ensenada y Carr. Transpeninsular)",
+  "zdalY_GAS_BRAND": "Petro 7",
+  "address": "Carretera Transpeninsular No. 8781",
+  "city": "Ensenada",
+  "state": "Baja California",
+  "zip": "22785",
+  "countY_NAME": "ZM Ensenada",
+  "pricinG_ZONE": "0_Baja_ia",
+  "clusteR_MEDIAN_PRICE": "7.46",
+  "clienT_MARKET_PRICE": "7.33",
+  "latitude": "31.79353",
+  "longitude": "-116.5928"
+}
+,
+{
+  "statioN_ID": "449",
+  "sitE_NAME": "6104 | (E-5 Silza Ensenada y Carr. Transpeninsular)",
+  "zdalY_GAS_BRAND": "Petro 7",
+  "address": "Carretera Transpeninsular No. 8781",
+  "city": "Ensenada",
+  "state": "Baja California",
+  "zip": "22785",
+  "countY_NAME": "ZM Ensenada",
+  "pricinG_ZONE": "0_Baja_ia",
+  "clusteR_MEDIAN_PRICE": "7.46",
+  "clienT_MARKET_PRICE": "7.33",
+  "latitude": "31.79353",
+  "longitude": "-116.5928"
+}
+]
+}
